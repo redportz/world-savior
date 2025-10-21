@@ -1,0 +1,7 @@
+# === Minecraft Backup Config ===
+BASE_DIR=C:\MinecraftServer
+WORLDS=world world_nether world_the_end
+REMOTE=cloudflare:your-bucket-name/minecraft_backups
+RCON_HOST=127.0.0.1
+RCON_PORT=25575
+RCON_PASS=YourStrongPassword
